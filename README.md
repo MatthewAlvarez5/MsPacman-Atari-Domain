@@ -9,7 +9,7 @@ Watch how performance improves as training progresses:
 
 | Model | Video |
 |--------|--------|
-| `Early`  | <a href="" target="_blank">▶ Watch</a> |
-| `Late`  | <a href="" target="_blank">▶ Watch</a> |
+| `Early`  | <a href="https://github.com/MatthewAlvarez5/MsPacman-Atari-Domain/blob/main/DQN_Pacman_Early.mp4" target="_blank">▶ Watch</a> |
+| `Late`  | <a href="https://github.com/MatthewAlvarez5/MsPacman-Atari-Domain/blob/main/DQN_PacMan_Late.mp4" target="_blank">▶ Watch</a> |
 
 
