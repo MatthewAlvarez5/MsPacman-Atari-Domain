@@ -7,7 +7,7 @@ A Deep Reinforcement Learning project applying Double DQN and Dueling DQN techni
 The goal of this project is to compare a baseline DQN agent with improved architectures and observe how gameplay performance evolves throughout training.
 
 This work is adapted from the starter DQN implementation here:
-🔗 Starter Code:
+🔗 Starter Code: https://github.com/everestso/summer25/blob/main/c166f25_02b_dqn_pong.ipynb
 
 # Project Overview
 
