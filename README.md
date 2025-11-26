@@ -2,6 +2,14 @@
 MsPacman Domain using AI techniques to improve play 
 
 ## A Little Pong
+├── models/              # DQN, Double DQN, Dueling DQN PyTorch modules
+├── replay/              # Replay buffer implementation
+├── train.py             # Main training loop
+├── test.py              # Evaluate trained agent
+├── utils/               # Plotting, wrappers, frame preprocessing
+├── runs/                # Logs, plots, saved models
+├── videos/              # Early-training and trained-agent videos
+└── README.md
 
 ## 🎮 DQN MsPacman Agent Evaluation
 
