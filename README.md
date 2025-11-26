@@ -41,7 +41,8 @@ Watch how performance improves as training progresses:
 
 | Stage                                    | Video |
 |------------------------------------------|--------|
-| **Early Training (random-ish behavior)** | <a href="https://github.com/MatthewAlvarez5/MsPacman-Atari-Domain/blob/main/Dueling_DQN_MsPacman_Early.mp4" target="_blank"><img src="thumb_early.png" width="300"></a> |
-| **Late Training (learned behavior)**     | <a href="https://github.com/MatthewAlvarez5/MsPacman-Atari-Domain/blob/main/Dueling_DQN_MsPacman_Late.mp4" target="_blank"><img src="thumb_late.png" width="300"></a> |
+| **Early Training (random-ish behavior)** | <a href="https://github.com/MatthewAlvarez5/MsPacman-Atari-Domain/blob/main/Dueling_DQN_MsPacman_Early.mp4"><img src="thumb_early.png" width="300"></a> |
+| **Late Training (learned behavior)**     | <a href="https://github.com/MatthewAlvarez5/MsPacman-Atari-Domain/blob/main/Dueling_DQN_MsPacman_Late.mp4"><img src="thumb_late.png" width="300"></a> |
+
 
 
