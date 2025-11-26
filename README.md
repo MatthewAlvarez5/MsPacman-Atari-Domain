@@ -1,6 +1,14 @@
 # MsPacman-Atari-Domain
 MsPacman Domain using AI techniques to improve play
 
+# Ms. Pac-Man Double + Dueling DQN
+
+A Deep Reinforcement Learning project applying Double DQN and Dueling DQN techniques to the classic Atari game Ms. Pac-Man.
+The goal of this project is to compare a baseline DQN agent with improved architectures and observe how gameplay performance evolves throughout training.
+
+This work is adapted from the starter DQN implementation here:
+🔗 Starter Code:
+
 # Project Overview
 
 This project implements three agents:
